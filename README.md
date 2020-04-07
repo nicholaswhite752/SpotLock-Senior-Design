@@ -1,4 +1,4 @@
-#SpotLock Senior Design Project
+# SpotLock Senior Design Project
 
 Created by: Paul-Wilson Kimloy Chang Fatt and Nicholas White
 
